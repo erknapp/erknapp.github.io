@@ -1,5 +1,3 @@
-# Portfolio
-Portfolio Website
+#Hi, my name is Erika Knapp and I like to make websites.
 
-
-## This is a showcase of my web development skills
+This is a website showcasing some of my work.
