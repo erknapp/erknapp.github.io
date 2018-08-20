@@ -26,7 +26,7 @@
   }
   
   h1, h2 {
-    font-family: playfair display;
+    font-family: "playfair display", serif;
   }
   
   i {
@@ -39,7 +39,7 @@
   }
   
   li {
-    font-family: roboto;
+    font-family: "roboto", sans-serif;
     margin-top: 3vh;
   }
   
@@ -54,7 +54,7 @@
   }
   
   p {
-    font-family: roboto;
+    font-family: "roboto", sans-serif;
     color: var(--accent-color);
   }
   
@@ -134,7 +134,7 @@
   @media only screen and (max-width: 750px){
     
     .flex {
-      flex-direction:column;
+      flex-direction: column;
     }
     
     .grid {
