@@ -1,7 +1,8 @@
 :root{
-    --main-color: pink;
-    --accent-color: white;
+    --main-color: white;
+    --accent-color: #F384AA;
     --text-color: black;
+    --project-bg-color: #C36891;
 }
 
 * {
@@ -129,7 +130,7 @@
   
   #projects {
     padding-top: 10vh;
-    background: var(--accent-color);
+    background: var(--project-bg-color);
     text-align: center;
   }
  
